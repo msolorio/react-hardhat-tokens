@@ -77,16 +77,6 @@ function App() {
           value="Get My Balance" 
           onClick={handleGetMyBalance}
         />
-        {/* {' '}
-        &nbsp;
-        {' '}
-        <input 
-          name="accountId"
-          type="text" 
-          placeholder="Account Id" 
-          value={state.accountId}
-          onChange={handleInputChange}
-        /> */}
       </div>
       <br />
       <div>
